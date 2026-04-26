@@ -7,10 +7,10 @@ The objective of this project is to extract meaningful insights from raw data an
 
 
 📂 Dataset
--Structured dataset in CSV format
--Contains transactional / customer / product-related data
--Includes categorical and numerical features
--Used for exploratory analysis and business insight generation
+• Structured dataset in CSV format
+• Contains transactional / customer / product-related data
+• Includes categorical and numerical features
+• Used for exploratory analysis and business insight generation
 
 (You can mention dataset name here if required)
 
